@@ -1,4 +1,4 @@
-name: Generate Readme
+name: Builder
 
 on:
   push:
@@ -17,4 +17,13 @@ jobs:
         run: |
           python builder/builder.py
         env:
-          PYTHON_VERSION: 3.x  # Specify the desired Python version here
+          PYTHON_VERSION: 3.x # Specify the desired Python version here
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          current_date=$(date +"%Y-%m-%d")
+          git add .
+          git commit -m "Builder running at $current_date"
+          git push
