@@ -24,7 +24,7 @@ for project in projects:
     project_directory = os.path.join(
         "projects", project_name.replace(" ", "_"))
     project_readme_path = os.path.join(project_directory, "README.md")
-    main_readme_content += f"- [{project_name}]({project_readme_path})\n\n"
+    main_readme_content += f"- [{project_name}]({project_readme_path}) ({project['short_desc']}) \n\n"
     first_project_image = project['images'][0]
     main_readme_content += f"![{first_project_image['desc']}](projects/{project['name']}/assets/{first_project_image['path']})\n\n"
 
@@ -41,6 +41,8 @@ for project in projects:
 
     # Generate the README content
     readme_content = f"# {project_name}\n\n"
+    readme_content = f"## Description\n\n"
+    readme_content = f"{project['desc']}\n\n"
     readme_content += f"**Used Technology:** {', '.join(project['technologies'])}\n\n"
     readme_content += f"**Project Link:** [{project_name}]({project['link']})\n\n"
     readme_content += f"**Project Website:** [{project_name} Website]({project['website']})\n\n"

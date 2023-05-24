@@ -1,6 +1,8 @@
 [
   {
     "name": "alishahidinet",
+    "short_desc": "My personal website",
+    "desc": "this is test desc just for builder system.",
     "images": [
       {
         "path": "1.jpg",
