@@ -1,0 +1,20 @@
+name: Generate Readme
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate_readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run Python script
+        run: |
+          python builder/builder.py
+        env:
+          PYTHON_VERSION: 3.x  # Specify the desired Python version here
