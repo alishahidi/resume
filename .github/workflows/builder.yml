@@ -25,5 +25,5 @@ jobs:
           git config --local user.name "Ali Shahidi"
           current_date=$(date +"%Y-%m-%d")
           git add .
-          git commit -m "Builder running at $current_date"
+          git commit -m "Builder running at $current_date from workflow"
           git push
