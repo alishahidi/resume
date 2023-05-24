@@ -8,7 +8,7 @@
 
 ## Screenshots
 
-![1.jpg](Menu bar)
+![assets/1.jpg](Menu bar)
 **Description:** Menu bar
 
 ![2.jpg](Menu bar 1)
