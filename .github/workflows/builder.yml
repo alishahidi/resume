@@ -30,7 +30,7 @@ jobs:
           if [ $? -eq 0 ]
           then
               set -e
-              git commit -m "Builder running at $current_date from workflow"
+              git commit -m "Builder running at $current_date from workflow."
               git push
           else
               set -e
