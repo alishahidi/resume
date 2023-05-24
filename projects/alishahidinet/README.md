@@ -8,18 +8,18 @@
 
 ## Screenshots
 
-![1.jpg](Menu bar)
+![Menu bar](assets/1.jpg)
 **Description:** Menu bar
 
-![2.jpg](Menu bar 1)
+![Menu bar 1](assets/2.jpg)
 **Description:** Menu bar 1
 
-![3.jpg](Menu bar 2)
+![Menu bar 2](assets/3.jpg)
 **Description:** Menu bar 2
 
-![4.jpg](Menu bar 3)
+![Menu bar 3](assets/4.jpg)
 **Description:** Menu bar 3
 
-![5.jpg](Menu bar 4)
+![Menu bar 4](assets/5.jpg)
 **Description:** Menu bar 4
 
