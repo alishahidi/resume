@@ -19,6 +19,3 @@ config.ini
 
 # Ignore generated documentation
 docs/
-
-# Ignore generated README files
-**/README.md
