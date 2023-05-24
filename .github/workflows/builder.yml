@@ -21,8 +21,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "alishahidi1376@gmail.com"
+          git config --local user.name "Ali Shahidi"
           current_date=$(date +"%Y-%m-%d")
           git add .
           git commit -m "Builder running at $current_date"
