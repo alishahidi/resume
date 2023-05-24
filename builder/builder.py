@@ -21,7 +21,8 @@ main_readme_content = f"""
 # Generate the project list in the main README.md
 for project in projects:
     project_name = project['name']
-    project_directory = project_name.replace(" ", "_")
+    project_directory = os.path.join(
+        "projects", project_name.replace(" ", "_"))
     project_readme_path = os.path.join(project_directory, "README.md")
     main_readme_content += f"- [{project_name}]({project_readme_path})\n"
     first_project_image = project['images'][0]
