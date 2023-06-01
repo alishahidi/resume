@@ -1,5 +1,163 @@
 [
   {
+    "name": "LaunchingMax",
+    "short_desc": "launchignmax.com website",
+    "desc": "LaunchingMax is an innovation in the field of startup, business, idea, and education. In LaunchingMax, we have many features to make running a startup as easy as possible. (if i want take screenshot of all project i can't handle it in this project page)",
+    "images": [
+      {
+        "path": "1.jpg",
+        "desc": "Messaging page (realtime)"
+      },
+      {
+        "path": "2.jpg",
+        "desc": "Dashboard welcome screen"
+      },
+      {
+        "path": "3.jpg",
+        "desc": "Dashboard management system"
+      },
+      {
+        "path": "4.jpg",
+        "desc": "Details section"
+      },
+      {
+        "path": "5.jpg",
+        "desc": "Forgot password"
+      },
+      {
+        "path": "6.jpg",
+        "desc": "Idea controlling section"
+      },
+      {
+        "path": "7.jpg",
+        "desc": "Active startup section"
+      },
+      {
+        "path": "8.jpg",
+        "desc": "Admin ticket management system"
+      },
+      {
+        "path": "9.jpg",
+        "desc": "Add coWorker"
+      },
+      {
+        "path": "10.jpg",
+        "desc": "LaunchingChat"
+      },
+      {
+        "path": "11.jpg",
+        "desc": "A day at launching max"
+      },
+      {
+        "path": "12.jpg",
+        "desc": "Contact us"
+      },
+      {
+        "path": "13.jpg",
+        "desc": "Faqs"
+      },
+      {
+        "path": "14.jpg",
+        "desc": "Add lms"
+      },
+      {
+        "path": "15.jpg",
+        "desc": "Profile"
+      },
+      {
+        "path": "16.jpg",
+        "desc": "Profile edit popup for non filled parts in base form"
+      },
+      {
+        "path": "17.jpg",
+        "desc": "Messages home chat page"
+      },
+      {
+        "path": "18.jpg",
+        "desc": "Idea roadmap "
+      },
+      {
+        "path": "19.jpg",
+        "desc": "New Idea"
+      },
+      {
+        "path": "20.jpg",
+        "desc": "Events"
+      },
+      {
+        "path": "21.jpg",
+        "desc": "Login"
+      },
+      {
+        "path": "22.jpg",
+        "desc": "Register welcome screen"
+      },
+      {
+        "path": "23.jpg",
+        "desc": "Register main page"
+      },
+      {
+        "path": "24.jpg",
+        "desc": "About us"
+      },
+      {
+        "path": "25.jpg",
+        "desc": "Price range for Register investor type"
+      },
+      {
+        "path": "26.jpg",
+        "desc": "Carousel fully customized build"
+      },
+      {
+        "path": "27.jpg",
+        "desc": "Sudden Idea"
+      },
+      {
+        "path": "28.jpg",
+        "desc": "Find yout position"
+      },
+      {
+        "path": "29.jpg",
+        "desc": "Map fully custom"
+      },
+      {
+        "path": "30.jpg",
+        "desc": "A grid gallery with content"
+      },
+      {
+        "path": "31.jpg",
+        "desc": "Footer"
+      },
+      {
+        "path": "32.jpg",
+        "desc": "Map with hover function"
+      },
+      {
+        "path": "33.jpg",
+        "desc": "Pre Apply page"
+      },
+      {
+        "path": "34.jpg",
+        "desc": "Investor popup"
+      },
+      {
+        "path": "35.jpg",
+        "desc": "Apply page"
+      },
+      {
+        "path": "36.jpg",
+        "desc": "Statup page preview for apply"
+      },
+      {
+        "path": "37.jpg",
+        "desc": "Success apply page"
+      }
+    ],
+    "technologies": ["React js", "Mui", "Tailwind css", "Nodejs"],
+    "link": "https://launchingmax.com",
+    "website": "https://launchingmax.com"
+  },
+  {
     "name": "alishahidinet",
     "short_desc": "My personal website",
     "desc": "this is test desc just for builder system.",
