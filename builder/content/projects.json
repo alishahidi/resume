@@ -158,6 +158,102 @@
     "website": "https://launchingmax.com"
   },
   {
+    "name": "app safestep",
+    "short_desc": "Web ui of safestepinnovation.com Gadget",
+    "desc": "A Gadget for manage your child",
+    "images": [
+      {
+        "path": "1.jpg",
+        "desc": "Home page"
+      },
+      {
+        "path": "2.jpg",
+        "desc": "Felling page"
+      },
+      {
+        "path": "3.jpg",
+        "desc": "Connection page"
+      },
+      {
+        "path": "4.jpg",
+        "desc": "Location page"
+      },
+      {
+        "path": "5.jpg",
+        "desc": "User can select area from map"
+      },
+      {
+        "path": "6.jpg",
+        "desc": "Insight page"
+      },
+      {
+        "path": "7.jpg",
+        "desc": "Menu bar"
+      },
+      {
+        "path": "8.jpg",
+        "desc": "Profile page"
+      },
+      {
+        "path": "9.jpg",
+        "desc": "Settings page"
+      },
+      {
+        "path": "10.jpg",
+        "desc": "Contact us page"
+      },
+      {
+        "path": "11.jpg",
+        "desc": "About us page"
+      },
+      {
+        "path": "12.jpg",
+        "desc": "Auth base page"
+      },
+      {
+        "path": "13.jpg",
+        "desc": "Login page"
+      },
+      {
+        "path": "14.jpg",
+        "desc": "Connection number edit page"
+      },
+      {
+        "path": "15.jpg",
+        "desc": "Register page"
+      },
+      {
+        "path": "16.jpg",
+        "desc": "Add child page"
+      },
+      {
+        "path": "17.gif",
+        "desc": "Selectable buttons"
+      },
+      {
+        "path": "18.gif",
+        "desc": "Navigation"
+      },
+      {
+        "path": "19.gif",
+        "desc": "Popover"
+      },
+      {
+        "path": "20.gif",
+        "desc": "Menu bar animation"
+      }
+    ],
+    "technologies": [
+      "React js",
+      "Mui",
+      "Tailwind css",
+      "Nodejs",
+      "Framer motion"
+    ],
+    "link": "https://app.safestepinnovation.com",
+    "website": "https://app.safestepinnovation.com"
+  },
+  {
     "name": "alishahidinet",
     "short_desc": "My personal website",
     "desc": "this is test desc just for builder system.",
