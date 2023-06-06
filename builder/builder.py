@@ -26,7 +26,7 @@ for project in projects:
     project_readme_path = os.path.join(project_directory, "README.md")
     main_readme_content += f"- [{project_name}]({project_readme_path}) ({project['short_desc']}) \n\n"
     first_project_image = project['images'][0]
-    main_readme_content += f"![{first_project_image['desc']}](projects/{project['name']}/assets/{first_project_image['path']})\n\n"
+    main_readme_content += f"<img alt='{first_project_image['desc']}' src='projects/{project['name']}/assets/{first_project_image['path']}' width='200px' height='200px' />\n\n"
 
 # Write the project list to the main README.md file
 with open(main_readme_path, 'w') as main_readme_file:
