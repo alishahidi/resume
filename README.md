@@ -4,13 +4,13 @@
 ## Projects list
 - [launchingmax](projects/launchingmax/README.md) (launchignmax.com website) 
 
-![Messaging page (realtime)](projects/launchingmax/assets/1.jpg)
+<img alt='Messaging page (realtime)' src='projects/launchingmax/assets/1.jpg' width='200px' height='200px' />
 
 - [app-safestep](projects/app-safestep/README.md) (Web ui of safestepinnovation.com Gadget) 
 
-![Home page](projects/app-safestep/assets/1.jpg)
+<img alt='Home page' src='projects/app-safestep/assets/1.jpg' width='200px' height='200px' />
 
 - [alishahidinet](projects/alishahidinet/README.md) (My personal website) 
 
-![Menu bar](projects/alishahidinet/assets/1.jpg)
+<img alt='Menu bar' src='projects/alishahidinet/assets/1.jpg' width='200px' height='200px' />
 
